@@ -14,4 +14,4 @@ Above is the output of my results.
 
 It seems I'm underconfident, and assign lower probabilities to my correctness, when in reality I should be more confident.
 You can try calibration excersizes yourself at https://www.clearerthinking.org/tools-and-mini-courses?pgid=je3dy4tk-8992b09d-f5ca-40f9-9991-c585c2ebc5b2
-(I just wrote the code for practice, but these guys do a much better job at showing you your progress/results.
+I just wrote the code for practice, but these guys do a much better job at showing you your progress/results.
